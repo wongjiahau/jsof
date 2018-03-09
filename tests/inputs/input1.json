@@ -1,0 +1,16 @@
+[{
+    "name": "john lee",
+    "age": 19,
+    "sex": {
+        "f": false,
+        "m": true
+    },
+    "hobby": "guitar"
+}, {
+    "name": "bob",
+    "sex": {
+        "f": true,
+        "m": false
+    },
+    "hobby": "eat"
+}]

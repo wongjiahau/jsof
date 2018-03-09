@@ -1,0 +1,3 @@
+name|age|sex:{f|m}|hobby
+$john lee|19|x|o|$guitar
+$bob||o|o|$eat

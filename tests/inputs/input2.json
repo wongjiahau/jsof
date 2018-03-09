@@ -1,0 +1,22 @@
+[{
+        "name": "john",
+        "friends": [{
+            "name": "lee",
+            "hobby": "sing"
+        }, {
+            "name": "chan"
+        }],
+        "likes": "dancing "
+    },
+    {
+        "name": "bob",
+        "friends": [{
+            "name": "kim",
+            "hobby": "jog"
+        }]
+    }, {
+        "name": "robert",
+        "friends": null,
+        "likes": "happiness"
+    }
+]

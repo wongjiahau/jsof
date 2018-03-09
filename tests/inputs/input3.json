@@ -1,0 +1,11 @@
+{
+    "john": {
+        "likes": "dancing",
+        "age": 12
+    },
+    "bob": {
+        "likes": "eating",
+        "favourite food": "banana",
+        "age": 30
+    }
+}
